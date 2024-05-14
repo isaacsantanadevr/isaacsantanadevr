@@ -28,7 +28,7 @@
 
 🛠 Possuo conhecimento intermediário em C e Python, o que me ajuda a ter uma base mais ampla para entender diferentes aspectos da programação.
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 💡 Computer Science Student
 💡 Specializing in Java Back-End Development at EBAC
