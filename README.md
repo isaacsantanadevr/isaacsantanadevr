@@ -1,5 +1,7 @@
 👋 Hello, I'm Isaac! // Oi, Meu Nome é Isaac
 
+![Isaac Santana's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacsantanadevr&show_icons=true&theme=radical)
+
 👨‍💻 JAVA, JENKINS, MAVEN, RabbitMQ, Kafka, SPRING BOOT, GIT, SQL, PostgreSQL, Docker, C, PYTHON 🙂
 
 💡 Estudante de Ciência da Computação 💡 Especializando-se em Desenvolvimento Back-End Java na EBAC 💡 Desenvolvedor Back-End em Treinamento 🎯 Sempre em busca de novos projetos
